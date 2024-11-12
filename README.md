@@ -18,8 +18,8 @@ To write a program to predict the price of the house and number of occupants in 
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: NAKUL R 
-RegisterNumber: 212223240102
+Developed by: Rohiit.A.S
+RegisterNumber: 212223100047
 */
 ```
 import numpy as np
